@@ -33,7 +33,7 @@ $ multipass ls
 
 # VMの起動確認
 > wsl -s Ubuntu-22.04
-> ws -l
+> wsl -l
 ```
 
 出力されるIPアドレスは「名前解決の設定」の手順で`YOUR_VM_IP_ADDRESS`を置き換えて利用してください。
